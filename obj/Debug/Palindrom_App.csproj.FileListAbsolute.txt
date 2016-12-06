@@ -1,0 +1,14 @@
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Palindrom_App.dll
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Palindrom_App.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\obj\Debug\Palindrom_App.Page1.xaml.g.cs
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\obj\Debug\Palindrom_App.dll
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\obj\Debug\Palindrom_App.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\obj\Debug\Palindrom_App.csprojResolveAssemblyReference.cache

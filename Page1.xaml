@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Palindrom_App.Page1">
+    
+    <StackLayout Spacing="15" HorizontalOptions="Center" >
+    <Label FontSize="50" Text=" " />
+    <Label Text=" " />
+		<Label FontSize="18" Text="Napište text, který chcete ověřit. (bez mezer, háčků a čárek!!!)" />  
+		<Entry x:Name="text"/>
+      <StackLayout Spacing="15" HorizontalOptions="Center" >
+        <Button WidthRequest="150" Text="Ověřit" Clicked="over"/>
+		    <Label Text="" TextColor="Green" HorizontalTextAlignment="Center" x:Name="vys"/>
+      </StackLayout>
+    </StackLayout>
+</ContentPage>
